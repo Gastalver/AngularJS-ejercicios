@@ -1,0 +1,29 @@
+{
+  "name": "angularjs-ejercicios",
+  "version": "1.0.0",
+  "description": "Ejercicios para aprender Angular y entorno de trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gastalver/AngularJS-ejercicios.git"
+  },
+  "keywords": [
+    "angularjs",
+    "workflow",
+    "webstorm"
+  ],
+  "author": "Gastalver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gastalver/AngularJS-ejercicios/issues"
+  },
+  "homepage": "https://github.com/Gastalver/AngularJS-ejercicios#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
